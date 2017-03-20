@@ -7,12 +7,12 @@ GraphiQL = <<-EOF
 <head>
 <meta charset="utf-8" />
 <title>tinrb graphiql</title>
-<script src="//cdn.jsdelivr.net/es6-promise/4.0.5/es6-promise.auto.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fetch/2.0.1/fetch.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.0/es6-promise.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.8.1/graphiql.min.js"></script>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.8.1/graphiql.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.9.3/graphiql.min.js"></script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.9.3/graphiql.min.css" />
 <style>html,body{height:100%;margin:0;overflow:hidden;width:100%;}</style>
 </head>
 <body>
